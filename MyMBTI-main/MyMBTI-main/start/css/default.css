@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    font-family: 'Stylish', sans-serif;
+}
+
+body{
+    background-color:#A9F5BC ;
+    
+}
+
+h3{
+    font-weight:700;
+}
